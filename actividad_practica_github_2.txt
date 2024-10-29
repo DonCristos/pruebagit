@@ -1,2 +1,4 @@
 git init: 
 Se utiliza para crear o inicializar el repositorio(proyecto) local y crea una carpeta .git
+
+Nueva modificación
