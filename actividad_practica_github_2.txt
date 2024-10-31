@@ -1,3 +1,2 @@
-prueba
-git init: 
-Se utiliza para crear o inicializar el repositorio(proyecto) local y crea una carpeta .git
+git merge
+Se utiliza para combinar los cambios de una rama en otra
